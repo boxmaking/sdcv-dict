@@ -1,5 +1,8 @@
 sdcv-dict README
 #+BEGIN_SRC org
+#+TITLE: sdcv-dict sdcv的字典文件
+#+DATE: <2025-02-23-054/Sunday>
+#+LANGUAGE: zh-CN
 
 sdcv-dict - A Collection of Dictionaries for sdcv
 ** 简介
