@@ -1,10 +1,8 @@
-sdcv-dict README
-#+BEGIN_SRC org
 #+TITLE: sdcv-dict sdcv的字典文件
 #+DATE: <2025-02-23-054/Sunday>
 #+LANGUAGE: zh-CN
 
-sdcv-dict - A Collection of Dictionaries for sdcv
+** sdcv-dict - A Collection of Dictionaries for sdcv
 ** 简介
 
 这个仓库提供了一系列适用于 sdcv（Stardict 命令行版本）的字典文件。sdcv 是一个轻量级的命令行工具，用于查询离线字典，而本项目旨在为用户提供方便的字典资源，支持多种语言和主题。
@@ -68,4 +66,3 @@ sdcv hello
 ** 联系
 
 有问题或建议？请通过 GitHub Issues 联系我！
-#+END_SRC
